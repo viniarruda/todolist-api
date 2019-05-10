@@ -1,7 +1,14 @@
 # todolist-api
 
+Sumário:
 
-## Desafio
+- [Desafio](#desafio)
+- [Api infos](#api-infos)
+- [Layout](#layout)
+- [lnstalação](#instalacao)
+
+
+## [](#desafio)Desafio
 
 Criar uma aplicação que deve:
 - Ler todos os TODOS cadastrados na api e lislá-los como cards
@@ -9,7 +16,7 @@ Criar uma aplicação que deve:
 - Deve ter uma lista com todos os Todos com os botões DELETE e UPDATE
 
 
-Informações REST:
+## [](#api-infos)Informações API REST
 
 
 Ler os todos:
@@ -50,7 +57,7 @@ Deletar um todo:
 ```
 
 
-## Layout
+## [](#layout)Layout
 
 Você deve seguir o layout 
 
@@ -63,3 +70,17 @@ Você deve seguir o layout
 
 
 ![Image of Layout](https://github.com/viniarruda/todolist-api/blob/master/src/assets/todolist.png)
+
+
+
+## [](#instalacao)Instalação
+
+```git clone git@github.com:viniarruda/todolist-api.git```
+
+```npm run dev```
+
+```localhost:3333/todolist```
+
+
+
+Enjoy and good luck! :)
