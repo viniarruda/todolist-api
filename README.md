@@ -78,6 +78,8 @@ Você deve seguir o layout
 
 ```git clone git@github.com:viniarruda/todolist-api.git```
 
+```npm install```
+
 ```npm run dev```
 
 ```localhost:3333/todolist```
