@@ -14,6 +14,7 @@ Criar uma aplicação que deve:
 - Ler todos os TODOS cadastrados na api e lislá-los como cards
 - Ter um input para escrever o Título do Todolist
 - Deve ter uma lista com todos os Todos com os botões DELETE e UPDATE
+- Ao finalizar o desafio, suba seu projeto no GIT e me envie
 
 
 ## [](#api-infos)Informações API REST
